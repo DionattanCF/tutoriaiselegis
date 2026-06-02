@@ -167,3 +167,61 @@ Bem-vindo ao módulo 1, o módulo mais importante do ELEGES, os cadastros. Toda 
 Antes de mergulharmos nos módulos do sistema, quero te dar algumas dicas de como estudar este curso da melhor forma possível. 1. Assista com o sistema aberto ao lado. A melhor forma de aprender o Elegis é praticando enquanto assiste. Abra o sistema no seu computador e repita cada passo junto comigo. Aprender fazendo é muito mais eficiente do que só assistir. 2. Siga a ordem dos módulos. O curso foi organizado de forma progressiva. O módulo 1 de cadastros é a base de tudo. Sem entender cadastros, os demais módulos farão menos sentido. Não pule etapas. 3. Anote suas dúvidas. Sempre que surgir uma dúvida durante uma aula, anote. Ao final do módulo, tente resolver a dúvida praticando no sistema. Se ainda assim não conseguir, acione o suporte do Eletro. Envolva sua equipe. Recomendamos que todos os colaboradores do gabinete assistam ao menos aos módulos que correspondem à sua função. A recepcionista precisa do módulo de cadastros e demandas. O responsável pela comunicação precisa do WhatsApp e e-mail. O gestor precisa do dashboard e relatórios. 5. A estrutura do curso é Módulo 0, Introdução, Você está aqui. Módulo 1, Cadastros. Módulo 2, Geomapeamento. Módulo 3, Demandas. Módulo 4, Agenda, Tarefas e Emendas. Módulo 5, WhatsApp, Campanhas. Módulo 6, Central de Atendimento. Módulo 7, Formulários. Módulo 8, Documentos e Ofícios. Módulo 9, E-mail Marketing. Módulo 10, Ferramentas e Administração. São ao todo, 67 aulas distribuídas em aproximadamente 5 horas e 30 minutos de conteúdo prático. Tudo pronto? Então vamos para o módulo 1, o coração do sistema. Os cadastros. Nos vemos lá.
 
 ---
+
+
+
+
+
+# Tutorial: Como usar o Suporte do Elegis
+
+---
+
+## O que é o Suporte do Elegis?
+
+O sistema Elegis conta com um canal de suporte integrado diretamente na plataforma, acessível a qualquer momento durante o uso. Ele funciona como um chat em tempo real, permitindo que você entre em contato com a equipe de suporte sem sair do sistema.
+
+---
+
+## Como acessar o Suporte
+
+No canto superior direito da tela, ao lado do botão **"Sair"**, você encontrará o **ícone de balão de diálogo** (representado por um símbolo de chat). Quando a equipe de suporte está disponível e online, o ícone exibe um indicador verde escrito **"On"**.
+
+**Passo a passo:**
+1. Localize o ícone de chat no canto superior direito da tela.
+2. Clique sobre ele para abrir o painel de suporte.
+
+---
+
+## Tela inicial do Suporte
+
+Ao clicar no ícone, um painel se abre no lado direito da tela com a mensagem de boas-vindas **"Olá! 👋 Precisa de ajuda? Entre em contato pelo chat:"**. Nessa tela você verá o botão **"Nova conversa"** com a instrução "Clique para iniciar o chat!".
+
+Na parte inferior do painel existem dois ícones de navegação: o ícone de **casa (Home)**, que leva à tela inicial do widget, e o ícone de **mensagens**, que exibe seu histórico de conversas.
+
+---
+
+## Como iniciar uma conversa com o Suporte
+
+1. Com o painel aberto, clique em **"Nova conversa"**.
+2. A tela de chat será aberta com um campo de texto na parte inferior: *"Digite aqui e pressione Enter."*
+3. Escreva sua dúvida ou solicitação no campo de texto e pressione **Enter** para enviar.
+4. Você também pode usar os ícones ao lado do campo de texto para **anexar arquivos** ou **inserir emojis**.
+5. Aguarde a resposta da equipe de suporte — quando o indicador estiver verde ("On"), há atendentes disponíveis em tempo real.
+
+---
+
+## Aba de Mensagens (histórico)
+
+Ao clicar no ícone de mensagens (segundo ícone na barra inferior do painel), você acessa a tela **"Mensagens"**, que possui duas seções:
+
+- **Iniciar um novo chat:** Botão para começar uma nova conversa com o suporte.
+- **Recentes:** Exibe o histórico de conversas anteriores que você teve com o suporte, permitindo retomar ou consultar atendimentos passados.
+
+---
+
+## Dicas importantes
+
+- O indicador **verde "On"** no ícone de chat significa que a equipe está online e disponível para atendimento imediato.
+- Caso a equipe esteja offline, você ainda pode enviar sua mensagem — ela será respondida assim que um atendente estiver disponível.
+- O widget de suporte é fornecido pela plataforma **tawk.to**, um serviço confiável de chat ao vivo.
+- Para fechar o painel de suporte sem encerrar o atendimento, basta clicar novamente no botão verde de chat no canto inferior direito ou em qualquer área fora do painel.
