@@ -219,6 +219,11 @@ Ao clicar no ícone de mensagens (segundo ícone na barra inferior do painel), v
 
 ---
 
+## Envio Ilimitado de WhatsApp
+O Os envios são Ilimitados, desde que você mantenha um Whatsapp Conectados ao Sistema.
+Se for banido ou desconectado você tem que ir colocando outro wpp. O Sistema continuará enviando de onde parou.
+Lembrando que o Whatsapp é não oficial para uso político, partidário e Campanha Eleitoral, assim existe o risco do banimento temporário de número, qual não temos resposabilidade.
+
 ## Dicas importantes
 
 - O indicador **verde "On"** no ícone de chat significa que a equipe está online e disponível para atendimento imediato.
