@@ -1,0 +1,396 @@
+# Instruções Detalhadas
+
+## 1. Aprenda a Fazer um Cadastro Completo no Sistema! 📋🔍
+
+Vamos continuar, então, com nossa aula no módulo 1, cadastros. Hoje nós vamos aprender sobre como fazer um novo cadastro. Então, para isso, você vai acessar o sistema com seu usuário e senha. Assim que fizer o login, clicar em cadastro. E vai clicar em cadastrar. Aqui você tem um botão, modo bloco. O que ele serve? Ele oculta essas informações laterais aqui, explicativas. Grupo, indicação. Então, você pode colocar uma foto com uma imagem de até 2 MB. Informar o nome. E-mail. CPF. Não é obrigatório, aqui o campo obrigatório é apenas o nome. O telefone. E o celular. Se esse celular existir WhatsApp, você pode marcar essa opção. Você pode informar algum grupo, se houver grupo. Se não houver grupo, você pode criar um grupo rapidamente aqui. Por exemplo, líder de bairro. Se essa pessoa que você está cadastrando tiver uma indicação, você pode incluir aqui, automaticamente vai entrar na rede. Vamos supor que é uma pessoa que tenha duas indicações. Isso é muito comum em cidades menores. O endereço, ele vai aqui, ele vai aqui, ele vai aqui, ele vai aqui, ele vai aqui, ele vai aqui, ele vai aqui, ele vai aqui, ele vai aqui, ele vai aqui, ele vai aqui, o endereço, ele vai aqui, ele vai buscar o endereço. Se você colocar o CEP, o número você vai informar, data de nascimento, gênero, sexo, estado civil, profissão, município. Quantos votos essa pessoa pode conseguir. Isso aqui você vai poder colocar dados do formulário, você vai poder acrescentar mais campos. Por exemplo, se for uma de igreja, aí você adiciona, aí você, por exemplo, igreja central, você pode adicionar mais campos, mas vamos colocar apenas um. Então agora nós temos campos aqui, um campo novo, redes sociais. Qual o formulário que ele vai utilizar? É o formulário padrão ou eu vou poder escolher. A gente pode escolher o que ele vai usar, ele vai usar o formulário padrão, ou ele vai usar o formulário padrão. e escolher um dos que eu criei. Então, você vai poder criá-los a um padrão. Formular de demanda é a mesma coisa. Eu posso ter um formulário padrão ou um específico para essa pessoa. Com tudo certo, você vai clicar em criar.
+
+---
+
+## 2. Cadastro de Usuários: Guia Completo para Controle de Acesso
+
+Vamos agora aprender a cadastrar e dar acesso a novos usuários. Então eu vou fazer o login, vou digitar os usuários, então ele vai estar no submenu de ajustes, vou clicar em adicionar, se ele está vinculado ao cadastro, sim ou não, ou seja, eu já posso vincular, se eu quiser, então sim, aqui se eu não tiver vínculo eu vou digitar o nome, se essa pessoa já estiver no cadastro, eu só vou buscar o nome dela aqui, então é bem simples essa vinculação, se não tiver, eu vou cadastrar, colocar a informação, se houver setor eu vou informar também, não é obrigatório, os campos obrigatórios são o nome, e-mail e o contato de whatsapp para notificações, e aqui eu vou dar permissões, tem dois módulos que eu quero explicar com detalhes, cadastro, então eu vou marcar se a pessoa vai vir, se ela vai vir e criar, se ela pode editar, se ela pode excluir, então o sistema vai gerar esse padrão para todo mundo, o que tem de diferente, no cadastro você tem restrito, o que é essa função restrito? restrito. No demandas também tem essa função restrito, isso que é muito importante. Restrito é para que a pessoa, o usuário que estiver cadastrando, ele só vai poder ver aquilo que ela cadastrou. Então se ele cadastrou cinco pessoas, ele só vai ver cinco pessoas. Essa é a função do restrito. Então você só vai marcar se a pessoa só pode ver o que ela cadastrou. Isso é muito utilizado em casos de lideranças que têm acesso ao sistema. Então uma liderança não é para ver o cadastro da outra, então você marca essa opção restrito. E o demandas, ele também tem uma função no seguinte sentido, a pessoa só vai ver os processos de demanda que forem encaminhados para ela por meio do andamento. Então se o processo for encaminhado para mim, eu vou ver, senão eu não tenho acesso ao processo de demanda. Então tem que observar muito bem esta questão do uso restrito, que são uma forma de filtrar ali o acesso dos usuários. Então a pessoa vai ver a demanda, vai criar, ela pode editar, pode excluir, mas só o que ela tiver acesso. Ela não pode pegar o processo de outra pessoa. E ao final você vai criar. Com isso, o usuário já tem acesso a tudo. Chamada VoIP é para os clientes que têm acesso a poder fazer ligações direto do sistema de cadastro para aquela pessoa. E o assistente de A, essa pessoa vai ter acesso ao assistente de A aqui, para poder consultar informações dos cadastros. Bem simples, né?
+
+---
+
+## 3. Personalize Seus Cadastros: Aprenda a Criar Campos Personalizados no Sistema!
+
+Olá, vamos agora, em cadastro, falar sobre campos personalizados. Quando você for adicionar um cadastro ou editar, o sistema permite adicionar campos personalizados, ou seja, cada político tem algumas particularidades nas suas regiões, então o sistema vem com os campos padrões, nome, e-mail, cpf, telefone, celular, vários campos, só que eles são padrão, mas daí você precisa colocar um campo a mais, precisa por exemplo, ah, quero colocar título de eleitor, número de cartão SUS, é uma informação a mais, então onde que você vai vir, você vai vir aqui em cadastro, no menu configurações, superior, aqui você vai poder marcar os campos que você entende como obrigatório, por exemplo, eu quero que seja obrigatório cidade, CEP, bairro, nome completo, celular, complemento número, tudo isso aqui eu quero como obrigatório, e agora eu vou poder customizar, então que tipo de campo, texto, numérico, data ou upload de arquivo, quero anexar documentos, então o campo texto, qual o nome, vamos colocar aqui, cartão SUS, informe, o número do cartão. Posso colocar como obrigatório. Posso adicionar mais outro. Vamos colocar aqui, título eleitoral. Informe o título. Você pode colocar o campo que você quiser. Salvou as configurações. Agora quando eu for criar ou editar um cadastro, vou pegar esse aqui, editar esse cadastro. Veja que vai aparecer aqui, campos adicionados, cartão SUS e título eleitoral. Então quando for adicionar um novo, agora já tem esses campos personalizados aqui. No sistema. Posso adicionar mais campos aqui. Aí é um específico do sistema.
+
+---
+
+## 4. Desbravando a IA: Como Usar o Assistente Inteligente no Seu Negócio
+
+Vamos aprender agora a usar a nossa IA. Você vai clicar em Cadastro. Vai aparecer Assistente IA. Então aqui ele vai aparecer pra você com um chat. Então você pode fazer as perguntas como Quantos cadastros existem em meu banco de dados? A IA vai responder pra você em texto. E você pode fazer uma pergunta de acordo com o seu interesse. 9 cadastros. Eu posso perguntar Quantos por cidade e bairro? Então é uma forma de você conversar com seus dados. Pra você fazer uma gestão. Este modo Assistente IA não está disponível a todos os clientes. Depende do plano contratado. Viu como foi simples?
+
+---
+
+## 5. Domine a Pesquisa e Filtragem de Cadastros: Passo a Passo Completo!
+
+Vamos agora aprender como filtrar e pesquisar cadastros. Basta clicar em cadastro. Os filtros ficam aqui no cantinho. Você vai clicar e vai abrir. Então eu posso fazer um filtro por data de cadastro, ontem, últimos sete dias, por mês, mês passado, este ano, ano passado, ou personalizado. Marcar um dia e aplicar. O sistema vai filtrar esse período, hoje, ontem, sete dias. Posso filtrar por indicação, que é a rede. Posso filtrar por cidade. Posso filtrar por grupo, vai listar todos os meus grupos. Por sexo, gênero. Por aniversário do dia, então se eu quiser saber se alguém faz aniversário. E excluídos. Então para mim ter acesso ao filtro, aqui no botão você tem limpar filtro. E essas três barrinhas são os campos que você quer exibir aqui na tela. Por exemplo, se você quer o seu telefone, celular criado em Whatsapp, você pode marcar. Vai clicar e vai aparecer os campos aqui na lista. O filtro do sistema é bem simples.
+
+---
+
+## 6. Domine o Controle de Colunas e Visualizações em Minutos!
+
+Agora nós vamos fazer um controle de colunas e visualizações. Aqui em cadastro, essa visualização, você pode configurar nas três barrinhas. Você pode redefinir, ele vai ficar como padrão. Então se você quer ver a data de nascimento, você marca, rola para baixo e aplica. Se você quer ver o bairro, você marca o checkbox e aplica. Isso vai mostrar aqui, bairro, data de nascimento quando tiver, então você vai ter uma lista. Bem simples, né?
+
+---
+
+## 7. Como Importar e Exportar Cadastros com Facilidade!
+
+Agora, sobre a exportação de cadastro, você vai acessar cadastro, vai clicar nessa seta para baixo, ao lado de cadastrar, aqui você vai poder importar cadastro e exportar, então exportar, ele vai abrir as opções e você vai marcar quais campos você quer exportar, ele vai exportar para uma planilha excel, você vai clicar, clicar em exportar, a exportação vai ser iniciada, vai estar em segundo plano e você vai receber o aviso aqui nas notificações onde você pode baixar o arquivo exportado, ou excel ou csv, e para importar, você vai clicar em importar, aqui você tem que baixar o layout, que é o exemplo, você vai arrastar seu arquivo aqui para dentro, vamos supor, eu vou vir aqui, baixei esse arquivo, agora vou importar ele aqui para dentro, vou selecionar ele, o formato tem que ser csv, o formato CSV, arquivo CSV está escrito aqui, vai enviar um arquivo CSV, o sistema está carregando, ele vai mostrar os campos, e eu vou colocar nome, telefone, o sistema identificou, veja aqui ó, naturalidade o sistema não identificou, e eu vou procurar esse campo, se tem, se não tem eu tenho que criar ele, se eu quiser ele, estado de nascimento, seleciona uma coluna, se não tiver eu tenho que criar essas colunas, e selecionar o grupo, para qual grupo vai, e vou clicar em importar, a importação vai para o segundo plano, importação completa, 3 segundos, 9 cadastros, então agora eu tenho mais cadastros aqui no sistema, no caso 10 cadastros.
+
+---
+
+## 8. Descubra Como Usar o Geomapeamento em 2 Minutos!
+
+Vamos agora no modo 2 geomapeamento, você vai clicar em geomapeamento, no canto, e já vai abrir o mapa. O sistema vai mostrar já onde você tem as pessoas geomapeadas.
+
+---
+
+## 9. Desvendando o Geomapeamento: Simples e Eficiente!
+
+No sistema de geomapeamento você tem as opções, quando você clica nos ícones das pessoas, nesse caso aqui essas pessoas estão no mesmo endereço, vai mostrar o nome, a cidade, telefone, o e-mail e os segmentos, os grupos que ela pertence. Então é bem simples para você utilizar e ter uma noção de como está toda a sua base de dados.
+
+---
+
+## 10. Descubra Como Filtrar Dados com Facilidade!
+
+Agora aqui temos uma parte interessante que é o filtro, o sistema que permite você realizar filtros. Então, por exemplo, você quer ver todo mundo de Goiânia, você pode adicionar mais de uma cidade e você vai buscar e vai mostrar todas aquelas pessoas de Goiânia e vai isolar as outras pessoas de outras cidades. Você pode escolher um bairro específico aqui. Goiânia, aí vai listar os bairros de Goiânia, aí você quer, por exemplo, só mulheres desse bairro. Você pode fazer um filtro apenas que tenha indicações e ele vai buscar todas essas informações para você. Filtrar é bem simples, basta clicar aqui e ele vai abrir as opções de filtros, limpar os filtros e aparece toda a sua base de dados. Se eu clicar no nome, vai acessar o cadastro daquela pessoa, já está já localizada.
+
+---
+
+## 11. Desvendando Clusters de Regiões: Otimize Seu Geomapeamento!
+
+Agora a última parte do geomapeamento são os clusters de regiões, então quanto mais distante você estiver do mapa mais ele vai agrupando e você vai aproximando e vai abrindo até abrir todas as pessoas, então a legenda está aqui, indicação, cadastro, telefone, e-mail e grupos, modo claro e modo escuro, pode colocar em tela inteira, que você vai ver nos clusters, quando você tem muitos eleitores, cidadão numa cidade, ele vai mostrando as regiões conforme você vai abrindo o mapa, os bairros.
+
+---
+
+## 12. Teste Surpresa: Vamos Descobrir o Resultado Juntos!
+
+Vamos fazer um pequeno teste.
+
+---
+
+## 13. Como Criar e Vincular Grupos no Seu Cadastro: Guia Completo!
+
+Vamos agora aprender a criar grupos e vincular esses grupos aos cadastros. Então, nós temos dois caminhos. Dentro do próprio cadastro, eu vou pegar qualquer pessoa. E aqui em grupos, eu posso adicionar grupos que são tags. Eu posso adicionar quantos eu quiser, por exemplo, líder de bairro. Não tem limite de grupos para ser da área da saúde. Então, essa pessoa agora pertence a vários grupos. Aqui no canto tem um sinalzinho de mais. Significa o quê? Que eu posso criar novos grupos, novos tags, novos segmentos. Mas eu posso vir aqui também, na lateral. Grupos tags. Vai apresentar todas para mim, que eu tenho. Cada um tem seu link. Eu vou adicionar um grupo. Vamos colocar líder religioso. Se esse grupo tiver um responsável, eu posso colocar. Outra coisa muito importante é o formulário do cadastro. Qual formulário vai ser utilizado? Então, no caso aqui, se eu deixar em branco, vai usar o formulário padrão. Mas eu poderia escolher um formulário específico para esse grupo de religioso. Na parte de formulários, a gente explica como montar isso. vincular a nenhum cadastro, a nenhum formulário. Então, vou criar ele. Então, foi criado com sucesso. Vou voltar e ele está aqui. Líder religioso. Se eu clicar em acessar, vai aparecer o formulário padrão. Mas eu vou poder colocar um formulário específico. Tem essa opção também. Então, se eu for aqui na Eduarda, por exemplo, eu vou colocar que ela é do grupo líder religioso. Então, já ficou cadastrado lá. Vou voltar. Se eu fizer um filtro aqui agora, e buscar todas as pessoas que são líderes religiosos, o sistema vai mostrar para mim só as pessoas. Então, é bem simples fazer o cadastro de novos grupos, que são os segmentos, são as tagzinhas. Você vai utilizar ela para enviar um e-mail, fazer relatórios, fazer um filtro no Mapas, no GeoMapas, que você vai poder enviar um WhatsApp. Então, ele tem essa finalidade, segmentar eleitores.
+
+---
+
+## 14. Desvendando a Rede de Indicações: Como Criar e Gerenciar!
+
+Vamos agora compreender como funciona a rede de indicações. Então você vai clicar em rede de indicações, abaixo do menu cadastro. O sistema vai mostrar toda a sua rede. No caso a nossa está zerada. Vamos mostrar agora como ela vai começar a aparecer aqui. Então, como que ele é feito as redes? São indicações de pessoas que indicam novas pessoas. É como se fosse um marketing multinível. Então cada uma dessas pessoas que está no seu banco de dados, ele possui um link próprio. Vou pegar o Felipe. Então ele tem um link próprio da própria rede. Ele tem a rede dele, mas na rede dele não tem ninguém. Não tem ninguém cadastrado. Agora eu vou entrar no cadastro da Eduarda. Vou editar esse cadastro. E aqui no sistema, quem indicou? Vou colocar que é o Felipe. Então o Felipe indicou. E vou colocar aqui, como é uma cidade pequena, teve duas indicações. O Antônio também indicou ela. Que aí eu vou saber da onde que essa pessoa veio, como que ela chegou até a minha base de dados. Então um eleitor, um líder, indicou uma pessoa. Um possível eleitor. E um outro líder indicou essa mesma pessoa. Então por isso que o sistema permite colocar duas pessoas que indicam uma nova pessoa. Isso acontece muito em cidade pequena, onde você tem dois líderes naquela cidade e os mesmos eleitores. Vou colocar um apartamento, que é um campo obrigatório, que eu coloquei que é como obrigatório, vocês podem colocar esse campo obrigatório sim ou não, ó, cartão sujo eu coloquei obrigatório, tiro de leitor também, então o sistema vai avisar, agora ele salvou. Então eu já indiquei que o Felipe começou a fazer a rede dele, ó, então agora o Antônio Felipe tem, observe aqui, Felipe indicou a Eduarda, a Eduarda não indicou ninguém, se ela tivesse indicado, iria aparecer aqui, e o Antônio também indicou, então se eu voltar aqui em rede de indicações, eu já vou começar a ver, ó, o top indicadores, quem são as pessoas que foram mais indicadas, então Eduarda foi indicada duas vezes, porque o Antônio Felipe indicou, e aqui você vai abrindo a rede, aqui tem uma legenda de níveis, eu vou pegar uma outra pessoa, Carva, e vou dizer que o Antônio indicou Eva também. Lembrando que eu coloquei aqui como obrigatório, então o sistema, eu só vou conseguir salvar, ó, eu não posso ter campos vazios, senão o sistema não salva, porque, agora salvou, coloquei aqui. Configurações, eu coloquei que esses campos aqui são obrigatórios, vou desmarcar, ó, campos obrigatórios. Agora não vai precisar mais ficar preenchendo aqueles campos. Vamos olhar a rede, ó, Karma foi indicada uma vez, o Antônio foi pro topo porque fez duas indicações. Aqui você vai vendo a árvore deles, vou pegar a Eduarda e vou indicar que ela indicou alguma pessoa. Ela indicou, aí eu tenho que entrar no cadastro da pessoa que ela indicou, vou colocar o Bruno. Vou editar, quem indicou é a Karma, vou salvar, endereço, campo obrigatório. Agora olha como está ficando a rede, o Antônio indicou a Karma, quem indicou é o Bruno. Então aqui você vai tendo a sua rede de indicações, depois você pode fazer um filtro, buscar por aqui, por exemplo, indicação que é o pai da rede, todos que foram indicados pelo Antônio, você quer fazer uma vista, o sistema já mostra. Ah, eu quero fazer uma lista que contenha... posso personalizar o campo. Quero o endereço. Agora já vai sair o endereço aqui. Agora como é que eu vou utilizar para que o meu líder faça as indicações? Eu fiz direto no sistema. Mas você vai pegar aqui o link dele. Você vai copiar. Então aqui é o link dele. Por que no caso aqui deu acesso? É porque ele não tem um formulário. Por isso que vocês vão ter que assistir as aulas do formulário. Digitar. Formulário cadastrado. Formulário padrão. Então cada líder, cada pessoa do seu banco de dados possui um link próprio. Para que com esse link ele possa cadastrar novas pessoas.
+
+---
+
+## 15. Domine a Arte dos Formulários: Capte Leads e Melhore Atendimentos!
+
+Vamos falar agora sobre formulários. Você vai vir aqui em formulários. Pra que que serve o formulário? Você pode criar quantos formulários você quiser. Ele serve pra captar leads ou gerar atendimento de forma externa. Ou seja, uma liderança política vai usar um formulário pra fazer o cadastro dos seus liderados. Você pode fazer um formulário pra cada líder. E aí você vai poder colocar, por exemplo, uma foto específica do político com o líder. Atendimentos. Você vai poder criar vários formulários pra atendimentos. Ou seja, atendimentos diversos. Então você tem ali um programa de saúde. E aí você pode usar um formulário específico pra captar atendimentos da saúde. Você tem um ali sobre atendimento da população sobre cachorros, animais, pets abandonados. Aí você tem um formulário específico pra essa situação. Também você pode fazer formulários pra grupos. Então você tem um grupo, um segmento específico. Por exemplo, colônia de pescadores. Você tem um formulário próprio pra eles. Mas também você pode usar formulário geral. Ou seja, um pra servir pra todos. No sistema isso é muito importante. Você ter um formulário padrão pra grupos, atendimentos, que é demandas. E pra lideranças, que é o parcerias. Então é importante que você tenha aqui, quando você for consultar. Construir um formulário padrão. Formulário não é difícil de fazer, então você tem um padrão para parceria, para grupo e demanda. Isso é obrigatório no sistema, ter um formulário de uso padrão. E aí depois você vai poder fazer uso específico. Então aqui, a tira de exemplo, cadastro de prospecto, tipo grupo, padrão. Então eu tenho um formulário específico para grupo e vou poder criar outros grupos. Basta clicar em adicionar. Então isso aqui é uma visão geral, agora na próxima aula eu vou detalhar um pouco mais.
+
+---
+
+## 16. Criação de Formulários Personalizados: Dicas e Truques Práticos!
+
+Continuando agora sobre formulários. Então, depois que a gente teve uma visão geral, vamos adicionar um formulário. Lembra muito o sistema do Google Forms. Então, eu posso colocar uma imagem na capa. Olha, deu uma mensagem de arquivo muito grande. Mas permitida é 3MB, eu coloquei 6MB. Então, eu vou converter essa imagem para ficar menor. Então, aqui o sistema já vai me mostrando como é que vai ficando. É um título que vai aparecer ali. Título do formulário. Faça seu cadastro e esteja em nossa base. Então, você dá um título e vai sair ali. E uma descrição que você pode escrever com o seu cadastro. Vamos vencer as eleições. Então, o sistema já vai mostrando como é. vai ficar, campos, nome, celular, então você vai poder adicionar mais campos, então por exemplo você quer pegar sexo, você quer pegar data de nascimento e o sistema vai mostrando como vai ficando, e aí você pode colocar como obrigatório, basta marcar obrigatório. Você pode, observa que o sistema te dá algumas opções de campos, mas você quer adicionar campos específicos, então você vai colocar campos customizados, então é do tipo texto, número, data ou é um upload para arquivos, então é do tipo texto, então você pode colocar, por exemplo, dá um título, informe qual sua igreja, aí vai digitar aqui qual vai ser a igreja dele, então é muito simples essa primeira parte, e agora vai vir as configurações do formulário, então qual o nome que você vai dar para o formulário, vai ser cadastro de religiosos, o tipo do formulário, ele é de parceria, e essa parte a gente tem que prestar muita atenção, porque isso aqui pode causar um pouco de confusão, formulário principal para o tipo de parceria, é uma pergunta, ele é, não, ele é padrão para todos os formulários de parceria, eu vou colocar aqui sim, lembrando que tem que ter um formulário padrão de grupo, de parceria e de demanda. Você quer aprovar o IDES? Você quer que antes de cair no seu banco de dados, ele caia aqui ó, nos IDES, para você verificar como foi esse cadastro e aprovar, ou seja, você vai fazer um filtro, um controle, antes de chegar no seu banco de dados de cadastro. Exibir botão de voltar para outro cadastro, ou seja, no mesmo formulário a pessoa já pode fazer, ter um botão voltar para ele iniciar o cadastro novamente. Se você quiser, você deixa ativado. E exibir os rótulos são esses desenhos aqui ó, para facilitar, então deixa ativo. Essa parte, a confirmação de leitura, ela é muito legal. Adicione aqui a mensagem de confirmação, que será enviada para o usuário após o cadastro do formulário. Então a pessoa vai fazer o cadastro, vai receber uma mensagem que você vai personalizar. Então olha só, você vai enviar a notificação por whatsapp e vai escrever uma mensagem. Olá, adicione o nome da pessoa. Obrigado por ter se cadastrado em nosso formulário de nossa base religiosa. Atenciosamente, o deputado. Então aqui você vai personalizar uma mensagem. Para cada formular você pode personalizar uma mensagem diferente, isso que é legal. Então, o formulário de parceria, você pode colocar uma mensagem, vamos supor que seja um cadastro de um evento, de um grupo, e aí, ah, obrigado por ter vindo aqui hoje no evento, você personaliza uma mensagem para aquele formulário, para aquele seguimento que você fez. O sistema permite também colocar os scripts de rastreamento aqui, ó, Pixel do Facebook, o Google Tag Manager e outros scripts. Então, eu fiz aqui e vou criar. Observe que então, ó, criei, cadastro é religiosos, parceria é padrão. Então agora só falta o de atendimento, então eu vou criar aqui de atendimento, vou fazer a mesma coisa, vou colocar uma imagem, coloquei essa, mas pode ser qualquer outra, pode ser diferente da outra, vou colocar aqui, atendimento do dia, uma mensagem, vou colocar os campos que eu quero pegar nesse formulário, e observe que no de cadastro de parceria eu não coloquei campos de demanda, então aqui eu vou adicionar, então assunto, descrição e anexo, eu coloquei, observe que ele saiu aqui, ó, assunto, E agora aqui na configuração eu vou dar um nome pra ele, pra salvar no sistema, atendimentos ao eleitor do dia, e vou colocar demandas atendimento, e vou colocar aqui de padrão, que é o meu primeiro, vai ter uma mensagem de confirmação, sim, olá, criei seu atendimento, já encaminhei para a minha equipe, logo entraremos em contato, lembrando que essa mensagem você vai personalizar de acordo com o seu interesse, e vou criar, então agora observe que eu tenho as minhas três, os meus três formulários padrões, de grupo, parceria e demanda, agora eu posso criar um outro sem ser um padrão, agora por exemplo, quando eu for vir aqui em cadastro, vou pegar aqui o Felipe, eu vou pegar o link dele, apareceu padrão, então eu vou pegar, observe aqui, o link, Felipe e Gabriel Costa, agora eu vou pegar um outro, ideia do Arna, vou acessar, é o mesmo formulário, só que a diferença aqui, a primeira diferença é que o link Está no nome dela, porque o link é dela. Tudo que ela cadastrar vai entrar na rede dela. Vai entrar aqui na rede dela. Eu posso usar um formulário diferente para ela? Posso. Eu vou voltar lá em formulário e vou adicionar um novo formulário. Cadastro da minha liderança. Poderia colocar uma imagem diferente. Eu vou deixar sem imagem. Eu vou pegar só sexo. Vou dar um nome. Cadastro da líder Ana. Ele é de parceria, porque vai vir de parceria, não é de grupo. Grupo é segmento. Ele não é padrão. Eu vou deixar não. Quando é padrão eu marco aqui. Posso fazer uma mensagem personalizada? Olá, nossa líder Ana me passou o seu contato. E vou criar. Então eu tenho o link. Cadastro de liderança, parceria, padrão não. Agora eu vou lá no cadastro. Eduarda, editar. Vou rolar a página até o final. Formulário de cadastro está usando o formulário padrão. Eu vou desmarcar e vou colocar o Ana. Salvei. Agora quando for abrir. Vou clicar em exibir, eu vou acessar, pode ver que o Dell está diferente, cadastro está sem aluno, então você poderá ter vários formulários individualizados para cada leader.
+
+---
+
+## 17. Domine Formulários de Demandas: Guia Prático para Líderes e Atendimentos
+
+Continuando o formulário, então, para cada líder, eu tenho um formulário padrão ou específico para aquele líder. Imagina que eu vou colocar ali uma imagem do político ou daquele líder, então eu posso ter vários cards ali, onde eu tenho um líder e um político diferentes, então cada um vai poder utilizar o seu. E a mesma coisa eu posso fazer por atendimento, ou seja, as demandas. Se você observar aqui, o link de demanda é da Eduarda, atendimento do dia. Então aqui eu sei que se for feito um atendimento aqui, eu vou colocar aqui, observe que não tem assunto, eu vou explicar isso aqui para vocês depois em uma próxima aula, o assunto eu tenho que marcar ele aqui, vou procurar a palavra assunto aqui, e eu vou criar um assunto, vamos supor, atendimento em saúde, está ativo e externo, o que significa isso? Se marcado, o assunto será exibido nos formulários externos, então se eu quero que esse assunto apareça de forma externa, eu deixo marcado, porque eu não tinha nenhum lá, porque eu só tinha dois assuntos e estava marcado, não estava marcado, vou editar ele aqui. marcar ele como externo, então agora eu tenho dois assuntos externos, então se eu for voltar aqui ó, eu vou atualizar a página, apareceu, então vou continuar aqui, eu estou fazendo um atendimento, usando o link da Eduarda, para fazer uma captação de uma demanda, imagina que ela foi visitar um amigo, e aí o amigo é o Jonathan, e eu relatei que eu estou com algum problema, problema de saúde, preciso de consulta, com um oftalmologista, e eu posso colocar uma imagem, colocar uma imagem aqui, vou colocar aqui, declaro que vi, e vou enviar, então o formulário enviado, agora se você for lá em demandas, porque foi de demandas, ele está aqui ó, criado aqui em formulários de demandas, então é assim que você vai utilizar os formulários de demanda, de grupo, de parceria, então em cada um dos seus líderes, tem um link próprio de demanda, vou acessar aqui ó, é o mesmo, porque eu estou usando o padrão, mas agora é específico do Felipe. o anterior eu usei da Eduarda foi aqui o registro daquele pedido que eu fiz, o cadastro como eu usei o link dela ele vem pra cá uma coisa importante que quando eu fiz o formulário isso aqui é muito importante quando eu fiz o formulário de atendimento esse aqui né, demanda eu coloquei aprovar lead e aí isso aqui você, o que que acontece se eu for vir aqui em cadastro o Jonathan não vai aparecer se eu for vir em demandas a demanda que ela criou, usando o link dela não vai aparecer mas por que? porque como eu deixei aquilo ativo aí você vai falar, mas cadastro não tá aparecendo é porque ela está em leads olha aqui ó então o atendimento tá aqui vou exibir importado não tudo que foi feito Então, eu vou marcar aqui, abrir, importar, ou seja, eu vou importar ele, importação concluída. Agora, se eu for aqui em cadastro, o Jonathan vai aparecer, apareceu, e se eu for em demandas, Jonathan, atendimento e saúde, eu vou exibir, está aqui.
+
+---
+
+## 18. Como Compartilhar Links de Formulários com Facilidade!
+
+Vamos aprender agora como compartilhar os links dos formulários. Então, o primeiro que eu vou pegar aqui, eu vou em grupos, então em grupos estão aqui ó. Você vai clicar, o sistema vai abrir, o formulário padrão que você criou. Basta copiar então, líder religioso, líder de bairro, observe que é padrão. Por que? Porque eu estou usando padrão aqui ó. Deixei em branco para usar o formulário padrão. Se eu quisesse colocar um específico, vamos supor, cadastro da Ana, vou salvar aqui, agora eu vou acessar, cadastro da minha liderança, aqui o da Ana. Então, é bem simples. Vou tirar, vai ficar em branco, vai usar o formulário padrão. Agora eu quero pegar da liderança. Eu cadastro, eu vou procurar a liderança, vou acessar o cadastro, tá aqui ó, link de parceria, copiar, acessar, enviar o QR Code. E se eu quiser o link da demanda do Jonathan, copiar, acessar, enviar, tá aqui também. Então é bem simples, pegar o link de parceria, demanda e grupo.
+
+---
+
+## 19. Domine sua Agenda: Como Criar e Gerenciar Eventos com Facilidade!
+
+Vamos falar agora da Agenda, vamos acessar o sistema, clicar no menu lateral Agenda, a primeira coisa que deve ser feita é criar uma Agenda, isso vai dar um nome, vai escolher uma cor, aqui o mais é de couve-erra. Feito isso, ela vai aparecer, aqui na lateral, você pode editar e excluir, você tem por semana, dias, mês, lista, 4 dias, para adicionar um evento, você vai adicionar evento, reunião, descrição, local, vai selecionar qual Agenda você quer, vai colocar um horário, um dia, contato, se ele é recorrente, você pode colocar, vai repetir por dia, por semana, por mês, por ano, o contato, já foi salvo ali, se eu editar, mudar a cor, ele vai mudar a cor também, você vai poder imprimir. para gerar um pdf você pode colocar notificação, notificar diariamente com a agenda você quer que notifique os telefones para notificação você pode adicionar aqui todos os dias, às 7 horas da manhã, o sistema vai enviar a agenda do dia salvou, criou a agenda bem simples
+
+---
+
+## 20. Desvende o Sistema Simples de Controle do Legislativo!
+
+O sistema de controle do Legislativo é bem simples, você vai acessar o menu lateral Legislativo, Projeto de Lei Você vai pedir um novo Projeto de Lei, vai colocar uma emenda, vai colocar um texto, salvar Aí você pode imprimir, colocar no Word e timbrado, se tiver um timbrado Então é um sistema bem simples
+
+---
+
+## 21. Transforme Seu Gabinete com Elegis: Gestão Profissional e Eficiente!
+
+Você já perdeu o controle de quantas pessoas pediu ajuda no seu gabinete? Já teve informação de eleitor em papel, em planilha, em grupo de WhatsApp, tudo espalhado, sem conseguir enxergar o tamanho real da sua base? O Elegis resolve exatamente isso. É um sistema completo de gestão de gabinete parlamentar, feito para organizar, atender e se comunicar de forma profissional com os seus apoiadores. Com o Elegis, você centraliza toda a sua base de eleitores e apoiadores em um único lugar. Nome, celular, endereço, grupos, histórico de atendimento, tudo registrado, organizado e acessível para toda a equipe. Cada pedido que chega ao gabinete vira uma demanda com número de protocolo, responsável e prazo. Nada se perde. Você acompanha tudo em tempo real e comprova o trabalho que o seu mandato entrega para a população. E quando chega a hora de se comunicar, o Elegis dispara campanhas de WhatsApp e e-mail para milhares de pessoas de forma segmentada, aniversariantes, moradores de um bairro específico, apoiadores de um grupo. A mensagem certa, para a pessoa certa, na hora certa. Você ainda visualiza no mapa onde estão os seus apoiadores, identificando regiões fortes e territórios onde ainda precisa crescer. Uma informação estratégica que vale ouro na pré-campanha. Para quem está na pré-campanha, o Elegis capta novos apoiadores por formulários, organiza lideranças por indicação e mantém o relacionamento ativo durante todo o mandato, para que quando chegar à eleição, o trabalho já esteja feito. O Elegis é a plataforma que transforma o seu gabinete em uma estrutura política profissional, organizado hoje, pronto para vencer amanhã. Acesse elegis.com.br e comece agora.
+
+---
+
+## 22. Transforme Seu Gabinete com o Elegis: Gestão Profissional para Mandatos de Sucesso!
+
+Você já perdeu o controle de quantas pessoas pediu ajuda no seu gabinete? Já teve informação de eleitor em papel, em planilha, em grupo de WhatsApp, tudo espalhado, sem conseguir enxergar o tamanho real da sua base? O Elegis resolve exatamente isso. É um sistema completo de gestão de gabinete parlamentar, feito para organizar, atender e se comunicar de forma profissional com os seus apoiadores. Com o Elegis, você centraliza toda a sua base de eleitores e apoiadores em um único lugar. Nome, celular, endereço, grupos, histórico de atendimento, tudo registrado, organizado e acessível para toda a equipe. Cada pedido que chega ao gabinete vira uma demanda com número de protocolo, responsável e prazo. Nada se perde. Você acompanha tudo em tempo real e comprova o trabalho que o seu mandato entrega para a população. E quando chega a hora de se comunicar, o Elegis dispara campanhas de WhatsApp e e-mail para milhares de pessoas de forma segmentada, para aniversariantes, moradores de um bairro específico, apoiadores de um grupo. A mensagem certa, para a pessoa certa, na hora certa. Você ainda visualiza no mapa onde estão os seus apoiadores, identificando regiões fortes e territórios onde ainda precisa crescer. Uma informação estratégica que vale ouro na pré-campanha. Para quem está na pré-campanha, o Elegis capta novos apoiadores por formulários, organiza lideranças por indicação e mantém o relacionamento ativo durante todo o mandato para que, quando chegar à eleição, o trabalho já esteja feito. O Elegis é a plataforma que transforma o seu gabinete em uma estrutura política profissional, organizado hoje, pronto para vencer amanhã. Acesse elegis.com.br e comece agora.
+
+---
+
+## 23. Domine o ELEGES: Revolucione Seu Gabinete Parlamentar!
+
+Olá! Seja muito bem-vindo ao curso completo do ELEGES. Meu nome é Callum e, ao longo deste curso, vou te mostrar, na prática, como usar cada recurso do sistema para transformar o atendimento do seu gabinete. Mas, antes de começarmos, vamos entender. O que é o ELEGES? O ELEGES é um sistema de gestão de gabinete parlamentar desenvolvido para organizar toda a rotina de um mandato político. Seja você vereador, deputado estadual, deputado federal ou qualquer outro cargo eletivo, o ELEGES centraliza em um único lugar. O cadastro de eleitores e apoiadores, o atendimento de demandas da população, o envio de mensagens por WhatsApp e e-mail, a criação de documentos e ofícios, o controle de agenda e compromissos, o monitoramento por geomapeamento e muito mais. A grande vantagem do ELEGES é que ele conecta toda a sua equipe, da recepção ao gabinete, em uma única plataforma, evitando informações perdidas em papel, planilhas e grupos de WhatsApp desorganizados. Ao final deste curso, você e sua equipe estarão aptos a usar o sistema de forma profissional e eficiente. Vamos começar!
+
+---
+
+## 24. Desvendando o Dashboard do Elegis: O Guia Completo!
+
+Ao fazer login no Elegis, a primeira tela que você verá é o Dashboard, ou painel principal. Esta é a tela de boas-vindas do sistema, e ela já traz informações muito importantes logo de cara. Veja o que temos aqui. No topo da tela, temos uma faixa de boas-vindas personalizada com o nome do usuário logado e a data de hoje. O sistema já avisa quantos cadastros estão aguardando interação, no nosso caso, mais de três. Isso é um lembrete para que a equipe nunca deixe contatos sem atenção. Logo abaixo, temos o acesso rápido. Oito atalhos para os módulos mais usados do sistema. Agenda, Demandas, Cadastro, WhatsApp, Ofício, Dashboard, Emendas e Geomapeamento. São atalhos que poupam tempo no dia a dia. No lado esquerdo da tela, temos o widget de Agenda e Reuniões. Se você tiver compromissos agendados para esta semana, eles aparecerão aqui. É uma forma rápida de consultar sua agenda sem precisar abrir o módulo completo. Ao centro, quatro cards de métricas rápidas. Total de cadastros. Mostra quantas pessoas estão na sua base. Total de demandas. Quantas solicitações foram registradas. Total de grupos. Quantos grupos. Segmentos você tem. Cadastros segmentados. Cadastros que já pertencem a algum grupo. E no lado direito, a lista de aniversariantes do dia. Um recurso valioso para manter o relacionamento com seus apoiadores. Com um clique, você acessa o perfil da pessoa e pode enviar uma mensagem de parabéns pelo WhatsApp. Mais abaixo na página, há ainda gráficos de cadastros por mês e demandas por mês, que mostram a evolução do seu atendimento ao longo do tempo. O Dashboard é o seu ponto de partida. Sempre que abrir o sistema, passe os olhos aqui antes de começar o trabalho do dia.
+
+---
+
+## 25. Desvendando o Elegis: Dicas de Navegação Essenciais!
+
+Agora vou te mostrar como navegar pelo Elegis sem se perder. A interface foi projetada para ser simples e intuitiva, mas existem alguns recursos de navegação que fazem toda a diferença no dia-a-dia. O menu lateral esquerdo é a sua bússola no sistema. Ele está sempre visível e organizado em sessões. Acesso direto, topo, home, tarefas, agenda, emendas, gerador de posts, I.A. e resultados das eleições. Painel. Dashboard analítico. Cadastro, cadastros, rede de indicações, grupos, geomapeamento, formulários, leads demandas. Demandas e assuntos. WhatsApp, campanhas, mensagens e contas central de atendimento, dashboard, conta, contatos, tags, respostas rápidas, conversas finalizadas, configurações, documentos, tipos, templates, documentos e ofícios, e-mail, campanhas, logs, templates, estúdio com I.A., provedores, ferramentas, PDF Lab, ajustes, configurações, usuários, setores, minha conta, perfil, contas, assinaturas, cobranças. Busca no menu. Perceba que no topo do menu lateral há um campo de pesquisa chamado Buscar menu. Se você não lembra em qual sessão está uma funcionalidade, é só digitar a palavra aqui e o menu vai filtrar os itens. Por exemplo, digitar Whats já mostra todas as opções de WhatsApp. Barra de ferramentas superior, topo da tela. À esquerda, logo do Eleges e o tipo de conta Gabinete. Ao centro, campo de pesquisa global. Você pode pesquisar cadastros, demandas e outros registros diretamente aqui, sem precisar entrar no módulo específico à direita. Ícone de notificações. Alertas do sistema Tema claro, escuro. Dois botões para alternar entre os modos visual. Recomendamos o modo claro para gravações de vídeo. pois é mais legível botão de chat e boa atendimento com indicador online, offline, e o botão Sair para encerrar a sessão com segurança. Dica importante! Nunca feche o sistema pelo X do navegador sem clicar em Sair primeiro. Isso garante a segurança dos dados do seu gabinete.
+
+---
+
+## 26. Domine o ELEGES: Transforme o Atendimento do Seu Gabinete!
+
+Olá! Seja muito bem-vindo ao curso completo do ELEGES. Meu nome é Callum e, ao longo deste curso, vou te mostrar, na prática, como usar cada recurso do sistema para transformar o atendimento do seu gabinete. Mas, antes de começarmos, vamos entender. O que é o ELEGES? O ELEGES é um sistema de gestão de gabinete parlamentar desenvolvido para organizar toda a rotina de um mandato político. Seja você vereador, deputado estadual, deputado federal ou qualquer outro cargo eletivo, o ELEGES centraliza em um único lugar. O cadastro de eleitores e apoiadores. O atendimento de demandas da população. O envio de mensagens por WhatsApp e e-mail. A criação de documentos e ofícios. O controle de agenda e compromissos. O monitoramento por geomapeamento. E muito mais! A grande vantagem do ELEGES é que ele conecta toda a sua equipe, da recepção ao gabinete, em uma única plataforma, evitando informações perdidas em papel, planilhas e grupos de WhatsApp desorganizados. Ao final deste curso, você e sua equipe estarão aptos a usar o sistema de forma profissional e eficiente. Vamos começar!
+
+---
+
+## 27. Desvende o Módulo Essencial do ELEGES: Cadastros do Seu Gabinete!
+
+Bem-vindo ao módulo 1, o módulo mais importante do ELEGES, os cadastros. Toda a operação do seu gabinete gira em torno da base de cadastros. São as pessoas que você atende, que pedem demandas, que recebem suas mensagens de WhatsApp e e-mail, que aparecem no mapa, que participam dos seus grupos. Por isso, manter o cadastro organizado e atualizado é a tarefa mais estratégica de cada gabinete. Para acessar os cadastros, clique em Cadastros no menu lateral esquerdo, dentro da seção Cadastro. A tela que se abre traz quatro cards de métricas logo no topo. Total de cadastros. O número total de pessoas na sua base. Com grupos. Quantos cadastros já foram segmentados em pelo menos um grupo. Indicações. Cadastros que chegaram ao sistema por indicação de outra pessoa. Com rede. Cadastros que fazem parte da rede de indicações do gabinete. Abaixo dos cards, há um aviso de novidade quando o sistema é atualizado. Fique atento a esses avisos. Eles informam melhorias e novos recursos. A lista de cadastros é exibida em tabela com as colunas. Nome, e-mail, criado em, celular e cidade. Cada linha tem botões de ação rápida. Exibir e editar. No canto superior direito da tela, três botões importantes. Assistente IA. Aciona a inteligência artificial para ajudar você a conversar com seus dados de cadastro. Uma grande inovação para ajudar nas estratégias. Configurações. Personaliza as colunas e preferências da listagem. Cadastrar. Abre o para adicionar uma nova pessoa. Vamos explorar cada um deles nas próximas aulas.
+
+---
+
+## 28. Dicas Essenciais para Maximizar seu Aprendizado no Curso Elegis
+
+Antes de mergulharmos nos módulos do sistema, quero te dar algumas dicas de como estudar este curso da melhor forma possível. 1. Assista com o sistema aberto ao lado. A melhor forma de aprender o Elegis é praticando enquanto assiste. Abra o sistema no seu computador e repita cada passo junto comigo. Aprender fazendo é muito mais eficiente do que só assistir. 2. Siga a ordem dos módulos. O curso foi organizado de forma progressiva. O módulo 1 de cadastros é a base de tudo. Sem entender cadastros, os demais módulos farão menos sentido. Não pule etapas. 3. Anote suas dúvidas. Sempre que surgir uma dúvida durante uma aula, anote. Ao final do módulo, tente resolver a dúvida praticando no sistema. Se ainda assim não conseguir, acione o suporte do Eletro. Envolva sua equipe. Recomendamos que todos os colaboradores do gabinete assistam ao menos aos módulos que correspondem à sua função. A recepcionista precisa do módulo de cadastros e demandas. O responsável pela comunicação precisa do WhatsApp e e-mail. O gestor precisa do dashboard e relatórios. 5. A estrutura do curso é Módulo 0, Introdução, Você está aqui. Módulo 1, Cadastros. Módulo 2, Geomapeamento. Módulo 3, Demandas. Módulo 4, Agenda, Tarefas e Emendas. Módulo 5, WhatsApp, Campanhas. Módulo 6, Central de Atendimento. Módulo 7, Formulários. Módulo 8, Documentos e Ofícios. Módulo 9, E-mail Marketing. Módulo 10, Ferramentas e Administração. São ao todo, 67 aulas distribuídas em aproximadamente 5 horas e 30 minutos de conteúdo prático. Tudo pronto? Então vamos para o módulo 1, o coração do sistema. Os cadastros. Nos vemos lá.
+
+---
+
+# 0.1 — O que é o Elegis e para que serve
+
+O Elegis é um sistema de gestão de gabinete parlamentar desenvolvido para organizar toda a rotina de um mandato político. Seja você vereador, deputado estadual, deputado federal ou qualquer outro cargo eletivo, o Elegis centraliza em um único lugar:
+
+- O cadastro de eleitores e apoiadores
+- O atendimento de demandas da população
+- O envio de mensagens por WhatsApp e e-mail
+- A criação de documentos e ofícios
+- O controle de agenda e compromissos
+- O monitoramento por geomapeamento
+- E muito mais
+
+A grande vantagem do Elegis é que ele conecta toda a sua equipe — da recepção ao gabinete — em uma única plataforma, evitando informações perdidas em papel, planilhas e grupos de WhatsApp desorganizados.
+
+Ao final deste curso, você e sua equipe estarão aptos a usar o sistema de forma profissional e eficiente.
+
+---
+Agora vou te mostrar como navegar pelo Elegis sem se perder. A interface foi projetada para ser simples e intuitiva, mas existem alguns recursos de navegação que fazem toda a diferença no dia a dia.
+
+O Menu Lateral esquerdo é a sua bússola no sistema. Ele está sempre visível e organizado em seções:
+
+
+
+
+
+Acesso direto (topo): Home, Tarefas, Agenda, Emendas
+
+
+
+Painel: Dashboard analítico
+
+
+
+Cadastro: Cadastros, Rede de Indicações, Grupos, Geomapeamento, Formulários, Leads
+
+
+
+Demandas: Demandas e Assuntos
+
+
+
+WhatsApp: Campanhas, Mensagens e Contas
+
+
+
+Central de Atendimento: Dashboard, Conta, Contatos, Tags, Respostas Rápidas, Conversas Finalizadas, Configurações
+
+
+
+Documentos: Tipos, Templates, Documentos e Ofícios
+
+
+
+E-mail: Campanhas, Logs, Templates, Studio com IA, Provedores
+
+
+
+Ferramentas: PDF Lab
+
+
+
+Ajustes: Configurações, Usuários, Setores
+
+
+
+Minha Conta: Perfil, Contas, Assinaturas, Cobranças
+Busca no menu: Perceba que no topo do menu lateral há um campo de pesquisa chamado 'Buscar menu...'. Se você não lembra em qual seção está uma funcionalidade, é só digitar a palavra aqui e o menu vai filtrar os itens. Por exemplo, digitar 'whats' já mostra todas as opções de WhatsApp.
+Barra de ferramentas superior (topo da tela):
+
+
+
+À esquerda: logo do Elegis e o tipo de conta 'Gabinete'
+
+
+
+Ao centro: campo de Pesquisa Global — você pode pesquisar cadastros, demandas e outros registros diretamente aqui, sem precisar entrar no módulo específico
+
+
+
+À direita: ícone de Notificações — alertas do sistema
+
+
+
+Tema Claro/Escuro — dois botões para alternar entre os modos visual. Recomendamos o modo claro para gravações de vídeo, pois é mais legível
+
+
+
+Botão de Chat/Atendimento com indicador Online/Offline
+
+
+
+E o botão Sair para encerrar a sessão com segurança
+Dica importante: Nunca feche o sistema pelo X do navegador sem clicar em 'Sair' primeiro. Isso garante a segurança dos dados do seu gabinete.
+
+
+
+
+
+# 0.2 — Visão geral do Dashboard (Painel Principal)
+
+Ao fazer login no Elegis, a primeira tela que você verá é o **Dashboard** — ou Painel Principal. Esta é a tela de boas-vindas do sistema, e ela já traz informações muito importantes logo de cara.
+
+## Faixa de boas-vindas
+
+No topo da tela, temos uma faixa de boas-vindas personalizada com o nome do usuário logado e a data de hoje. O sistema já avisa quantos cadastros estão aguardando interação — no nosso caso, mais de 38 mil. Isso é um lembrete para que a equipe nunca deixe contatos sem atenção.
+
+## Acesso Rápido
+
+Logo abaixo, temos o **Acesso Rápido** — oito atalhos para os módulos mais usados do sistema:
+
+- Agenda
+- Demandas
+- Cadastro
+- WhatsApp
+- Ofício
+- Dashboard
+- Emendas
+- Geomapeamento
+
+São atalhos que poupam tempo no dia a dia.
+
+## Widget de Agenda e Reuniões
+
+No lado esquerdo da tela, temos o widget de **Agenda e Reuniões**. Se você tiver compromissos agendados para esta semana, eles aparecerão aqui. É uma forma rápida de consultar sua agenda sem precisar abrir o módulo completo.
+
+## Cards de métricas rápidas
+
+Ao centro, quatro cards de métricas rápidas:
+
+- **Total de Cadastros** — mostra quantas pessoas estão na sua base
+- **Total de Demandas** — quantas solicitações foram registradas
+- **Total de Grupos** — quantos grupos/segmentos você tem
+- **Cadastros Segmentados** — cadastros que já pertencem a algum grupo
+
+## Aniversariantes do Dia
+
+No lado direito, a lista de **Aniversariantes do Dia** — um recurso valioso para manter o relacionamento com seus apoiadores. Com um clique, você acessa o perfil da pessoa e pode enviar uma mensagem de parabéns pelo WhatsApp.
+
+## Gráficos
+
+Mais abaixo na página, há ainda gráficos de **Cadastros por Mês** e **Demandas por Mês**, que mostram a evolução do seu atendimento ao longo do tempo.
+
+O Dashboard é o seu ponto de partida. Sempre que abrir o sistema, passe os olhos aqui antes de começar o trabalho do dia.
+
+
+
+Agora vou te mostrar como navegar pelo Elegis sem se perder. A interface foi projetada para ser simples e intuitiva, mas existem alguns recursos de navegação que fazem toda a diferença no dia a dia.
+
+O Menu Lateral esquerdo é a sua bússola no sistema. Ele está sempre visível e organizado em seções:
+
+
+
+
+
+Acesso direto (topo): Home, Tarefas, Agenda, Emendas
+
+
+
+Painel: Dashboard analítico
+
+
+
+Cadastro: Cadastros, Rede de Indicações, Grupos, Geomapeamento, Formulários, Leads
+
+
+
+Demandas: Demandas e Assuntos
+
+
+
+WhatsApp: Campanhas, Mensagens e Contas
+
+
+
+Central de Atendimento: Dashboard, Conta, Contatos, Tags, Respostas Rápidas, Conversas Finalizadas, Configurações
+
+
+
+Documentos: Tipos, Templates, Documentos e Ofícios
+
+
+
+E-mail: Campanhas, Logs, Templates, Studio com IA, Provedores
+
+
+
+Ferramentas: PDF Lab
+
+
+
+Ajustes: Configurações, Usuários, Setores
+
+
+
+Minha Conta: Perfil, Contas, Assinaturas, Cobranças
+Busca no menu: Perceba que no topo do menu lateral há um campo de pesquisa chamado 'Buscar menu...'. Se você não lembra em qual seção está uma funcionalidade, é só digitar a palavra aqui e o menu vai filtrar os itens. Por exemplo, digitar 'whats' já mostra todas as opções de WhatsApp.
+Barra de ferramentas superior (topo da tela):
+
+
+
+À esquerda: logo do Elegis e o tipo de conta 'Gabinete'
+
+
+
+Ao centro: campo de Pesquisa Global — você pode pesquisar cadastros, demandas e outros registros diretamente aqui, sem precisar entrar no módulo específico
+
+
+
+À direita: ícone de Notificações — alertas do sistema
+
+
+
+Tema Claro/Escuro — dois botões para alternar entre os modos visual. Recomendamos o modo claro para gravações de vídeo, pois é mais legível
+
+
+
+Botão de Chat/Atendimento com indicador Online/Offline
+
+
+
+E o botão Sair para encerrar a sessão com segurança
+Dica importante: Nunca feche o sistema pelo X do navegador sem clicar em 'Sair' primeiro. Isso garante a segurança dos dados do seu gabinete.
+
+
+
+
